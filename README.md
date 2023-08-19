@@ -6,8 +6,10 @@ I have used an amazon dataset on user ratings for electronic products, this data
 You can find the dataset here - https://www.kaggle.com/datasets/vibivij/amazon-electronics-rating-datasetrecommendation/download?datasetVersionNumber=1
 You can find many other similar datasets here - https://jmcauley.ucsd.edu/data/amazon/
 
+# Approach
 
-
+  
+   
 
 
 
