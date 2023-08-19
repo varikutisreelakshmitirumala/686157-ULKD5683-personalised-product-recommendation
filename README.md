@@ -12,6 +12,7 @@ Objective -
    1.Recommend products with highest number of ratings.
    2.Target new customers with most popular products.
    3.Solve the Cold Start Problem
+   
 Outputs -
 
   1.Recommend top 5 products with 5/1 minimum ratings/interactions.
