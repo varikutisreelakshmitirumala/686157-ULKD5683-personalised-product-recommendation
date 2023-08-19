@@ -15,8 +15,6 @@ Objective -
 Outputs -
   Recommend top 5 products with 5/1 minimum ratings/interactions.
 Approach -
-      
-      
       Calculate average rating for each product.
       Calculate total number of ratings for each product.
       Create a DataFrame using these values and sort it by average.
