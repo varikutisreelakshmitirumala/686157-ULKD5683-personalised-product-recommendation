@@ -19,6 +19,8 @@ Outputs -
   
 Approach -
 
+
+
       1.Calculate average rating for each product.
       2.Calculate total number of ratings for each product.
       3.Create a DataFrame using these values and sort it by average.
