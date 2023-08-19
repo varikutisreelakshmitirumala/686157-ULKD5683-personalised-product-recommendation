@@ -9,12 +9,15 @@ You can find the dataset here - https://www.kaggle.com/datasets/vibivij/amazon-e
 # Approach
 # Rank Based Product Recommendation
 Objective -
-  1.Recommend products with highest number of ratings.
+
+   1.Recommend products with highest number of ratings.
    2.Target new customers with most popular products.
    3.Solve the Cold Start Problem
 Outputs -
+
   1.Recommend top 5 products with 5/1 minimum ratings/interactions.
 Approach -
+
       1.Calculate average rating for each product.
       2.Calculate total number of ratings for each product.
       3.Create a DataFrame using these values and sort it by average.
